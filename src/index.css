@@ -1,0 +1,26 @@
+:root{
+  --back1:#072063;
+  --back2:#251560;
+  --back3:#311260;
+  --back4:#3a0d5e;
+  --back5:#420b5f;
+  --back6:#4a085f;
+  --input:#edeef0;
+  --add:#ff5845;
+  --mark:#919191;
+  --text:#022155;
+   
+ }
+ *{
+   margin: 0;
+   padding: 0;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+ }
+body {
+  background-image: linear-gradient(to right,var(--back1)30%,var(--back2)42%,var(--back3)62%,var(--back4)75%, var(--back5)85%,var(--back6)100%);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+}

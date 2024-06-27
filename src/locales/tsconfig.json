@@ -1,0 +1,7 @@
+// Allow to use json files
+{
+    "compilerOptions": {
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    }
+}
